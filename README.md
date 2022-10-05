@@ -14,4 +14,4 @@ Skills: PYTHON | DJANGO | BOOTSTRAP 5 | CSS 3 | FLEXBOX | HTML |5 | REACT | JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmorris825&layout=compact&theme=chartreuse-dark)](https://github.com/Fmorris825/github-readme-stats)
 
-![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825&show_icons=true&theme=dracula)
+![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825&show_icons=true&theme=chartreuse-dark)

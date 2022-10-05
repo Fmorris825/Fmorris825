@@ -6,4 +6,4 @@
 -   Twitter: @CodeFredDesign
 -   Email: CodeFredDesgin@outlook.com
 
-[![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825)](https://github.com/Fmorris825/github-readme-stats)
+[Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825&show_icons=true&theme=dracula)

@@ -1,6 +1,6 @@
 ### Hi there 👋, こんにちは (Kon'nichiwa) , Thats 'Hello' in Japanese... I think. I'm Fred!
 #### I am a Full Stack Developer
-![I am a Full Stack Developer](https://png.pngtree.com/thumb_back/fh260/back_our/20190622/ourmid/pngtree-minimalistic-business-future-city-poster-background-image_230538.jpg)
+![I am a Full Stack Developer]
 
 I am "Interested in Innovation". I am fascinated by technology and inspired by creativity. I enjoy developing and creating within code and bringing user interfaces and programs to life!
 

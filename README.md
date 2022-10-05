@@ -6,7 +6,4 @@
 -   Twitter: @CodeFredDesign
 -   Email: CodeFredDesgin@outlook.com
 
-<!---
-Fmorris825/Fmorris825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825)](https://github.com/Fmorris825/github-readme-stats)

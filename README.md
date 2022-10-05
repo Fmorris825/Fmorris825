@@ -3,7 +3,7 @@
 
 I am "Interested in Innovation" 💡. I am fascinated by technology and inspired by creativity. I enjoy developing and creating within code and bringing user interfaces and programs to life!
 
-Skills: PYTHON | DJANGO | BOOTSTRAP 5 | CSS 3 | FLEXBOX | HTML |5 | REACT | JAVASCIPT  
+Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | FLEXBOX | HTML ⑤ | REACT ⚛ | JAVASCIPT 🟨
 
 - 🔭 I’m currently working on Creating Innovative and Unique programs and designs. 
 - 🌱 I’m currently learning Python, Django, Bootstrap 

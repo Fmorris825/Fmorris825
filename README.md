@@ -4,10 +4,10 @@
 
 I am "Interested in Innovation" 💡. I am fascinated by technology and inspired by creativity. I enjoy developing and creating within code and bringing user interfaces and programs to life!
 
-Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | FLEXBOX | HTML ⑤ | REACT ⚛ | JAVASCIPT 🟨
+Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | FLEXBOX | HTML ⑤ | REACT ⚛ | JAVASCRIPT 🟨
 
 - 🔭 I’m currently working on Creating Innovative and Unique programs and designs. 
-- 🌱 I’m currently learning Python, Django, Bootstrap 
+- 🌱 I’m currently learning: Python, Django, Bootstrap 
 - 📫 How to reach me: CodeFredDesign@outlook.com 
 
 

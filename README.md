@@ -15,4 +15,4 @@ Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | FLEXBOX | HTML ⑤ | RE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmorris825&layout=compact&theme=chartreuse-dark)](https://github.com/Fmorris825/github-readme-stats)
 
-![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825&show_icons=true&theme=chartreuse-dark)
+[![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825&theme=chartreuse-dark)](https://github.com/Fmorris825/github-readme-stats)

@@ -13,4 +13,6 @@ Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | HTML ⑤ | REACT ⚛ | 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fmorris825)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fred-morris-623107235//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CodeFredDesign)  
 
+[![Fred's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmorris825&layout=compact&theme=chartreuse-dark)](https://github.com/Fmorris825/github-readme-stats)
 
+[![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fmorris825&theme=chartreuse-dark)](https://github.com/Fmorris825/github-readme-stats)

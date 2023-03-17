@@ -2,7 +2,7 @@
 # Anyways,  HELLO, I'm Fred!
 #### I am a Full Stack Developer [Specialization in front end]
 
-I specialize in desgigning and creating front end user interfaces with React.js along other frameworks and libraries. 
+I specialize in designing and creating front end user interfaces with React.js along other frameworks and libraries. 
 
 My focus is to create scaleable applications through reusable components to create effective and unique user interfaces to be enjoyed on the client side.
 

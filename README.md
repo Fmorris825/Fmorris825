@@ -2,12 +2,13 @@
 # Anyways,  HELLO, I'm Fred!
 #### I am a Full Stack Developer
 
-I am "Interested in Innovation" 💡. I have a passionate fascination with technology and I am inspired by creativity. I enjoy developing and creating within code, and bringing user interfaces and programs to life!
+I am a Developer who specializes in desgigning and creating front end user interfaces with React.js along other frameworks and libraries. 
 
-Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | HTML ⑤ | REACT ⚛ | JAVASCRIPT 🟨
+My focus is to create scaleable applications through reusable components to create effective and unique user interfaces to be enjoyed on the client side.
+
+Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | HTML ⑤ | REACT ⚛ | JAVASCRIPT 🟨 | JAVA | GOOGLE FIREBASE | JAVA SPRING | MYSQL | POSTMAN | GIT | GITHUB
 
 - 🔭 I’m currently working on Creating Innovative and Unique programs and designs. 
-- 🌱 I’m currently learning Python, Django, Bootstrap 
 - 📫 How to reach me: CodeFredDesign@outlook.com 
 
 

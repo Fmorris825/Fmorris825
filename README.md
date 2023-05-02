@@ -1,5 +1,6 @@
 ### こんにちは (Kon'nichiwa)👋 , Thats 'Hello' in Japanese... I think. 
-# My name is <a href="https://www.linkedin.com/in/fredmorrisdeveloper/">Fred</a> , and I am a Frontend Developer. [Specialization in React.js]
+# My name is <a href="https://www.linkedin.com/in/fredmorrisdeveloper/">Fredrick Morris</a> , and I am a Frontend Developer. 
+## [Specialization in React.js]
 
 I specialize in designing and creating front end user interfaces with React.js along other frameworks and libraries. 
 

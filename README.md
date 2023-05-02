@@ -1,9 +1,6 @@
 ### こんにちは (Kon'nichiwa)👋 , Thats 'Hello' in Japanese... I think. 
 # Anyways,  HELLO, I'm Fred!
-### I am a Full Stack Developer [Specialization in front end]     
-<a href="https://www.linkedin.com/in/fredmorrisdeveloper/">
-      <img src=`https://user-images.githubusercontent.com/102545150/235725491-54de7202-0cf6-4c59-b355-514df9b11068.png`/>
-    </a>
+### I am a Full Stack Developer [Specialization in front end] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fred-morris-623107235//) 
 
 I specialize in designing and creating front end user interfaces with React.js along other frameworks and libraries. 
 
@@ -15,7 +12,9 @@ Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | HTML ⑤ | REACT ⚛ | 
 - 📫 How to reach me: CodeFredDesign@outlook.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fmorris825)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fred-morris-623107235//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CodeFredDesign)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fmorris825) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fred-morris-623107235//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CodeFredDesign)  
 
 <!-- [![Fred's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmorris825&layout=compact&theme=chartreuse-dark)](https://github.com/Fmorris825/github-readme-stats)
 

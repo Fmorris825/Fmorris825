@@ -6,7 +6,7 @@ I specialize in designing and creating front end user interfaces with React.js a
 
 My focus is to create scaleable applications through reusable components to create effective and unique user interfaces to be enjoyed on the client side.
 
-Skills: PYTHON🐍 | DJANGO | BOOTSTRAP 🟪 | CSS ③ | HTML ⑤ | REACT ⚛ | JAVASCRIPT 🟨 | JAVA | GOOGLE FIREBASE | JAVA SPRING | MYSQL | POSTMAN | GIT | GITHUB
+Skills: Python | Django REST Framework | JavaScript | CSS | HTML | React.js | Java | Spring Framework | Google Firebase | AWS Relational Database | AWS Amplify | AWS Elastic Beanstalk | MySql | Postman | Git | Github | Docker | API's | Web Services | Agile Methodologies
 
 - 🔭 I’m currently working on Creating Innovative and Unique programs and designs. 
 - 📫 How to reach me: CodeFredDesign@outlook.com 

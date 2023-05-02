@@ -1,6 +1,6 @@
 ### こんにちは (Kon'nichiwa)👋 , Thats 'Hello' in Japanese... I think. 
-# Anyways,  HELLO, I'm Fred!
-### I am a Full Stack Developer [Specialization in front end] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fred-morris-623107235//) 
+# Anyways,  HELLO, I'm Fred! [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fred-morris-623107235//) 
+### I am a Full Stack Developer [Specialization in front end] 
 
 I specialize in designing and creating front end user interfaces with React.js along other frameworks and libraries. 
 
